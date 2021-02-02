@@ -14,7 +14,7 @@ Deployed Link
 ## Built With
 JavaScript, Node, HTML, CSS, Express, Handlebars, Sequelize, MySql2, JawsDB, Heroku, express
 
-## Repository
+## Project Repository
 [Repository Link](https://github.com/Mbogaert/group-project-two)
 
 ## Heroku
