@@ -1,7 +1,7 @@
 # Plenty O' Pups
 
 ## Description
-Plenty O' Pups is a social platform that allows dog owners to connect with other dog owners to connect and set up playdates.
+Plenty O' Pups is a social platform that allows dog owners to connect with other dog owners and set up playdates.
 
 Deployed Link
 
